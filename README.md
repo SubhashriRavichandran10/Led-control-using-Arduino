@@ -93,13 +93,17 @@ void loop(){
 
 ## OFF
 
-![Screenshot 2024-09-17 221308](https://github.com/user-attachments/assets/aadeef34-8fda-4523-ac87-19ee444c17a4)
+
+![Screenshot 2024-09-17 221308](https://github.com/user-attachments/assets/c5bcad0f-aef5-4f07-ad85-8a4b70b170bd)
+
+
 
 ## ON
 
 
 
-![Screenshot 2024-09-17 221323](https://github.com/user-attachments/assets/a0a5a004-97c9-4697-b625-4a91344d6616)
+![Screenshot 2024-09-17 221323](https://github.com/user-attachments/assets/78af49bc-152b-42bd-b7cc-23463835ba16)
+
 
 
 
