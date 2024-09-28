@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+# NAME:R.SUBHASHRI
+# REG NO:212223230219
+# EX NO:1 LED CONTROL USING ARDUINO
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
